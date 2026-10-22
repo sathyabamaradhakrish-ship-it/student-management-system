@@ -1,0 +1,4 @@
+101,sathya,23,mca
+102,sakana,19,be
+103,nivetha,23,mcom
+104,radha,-44,mca
